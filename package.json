@@ -1,0 +1,1 @@
+{ "name": "neonatal-presentation", "version": "1.0.0", "description": "PowerPoint generator for neonatal screening presentation.", "main": "generate_neonatal_pptx.mjs", "scripts": { "generate": "node scripts/generate_neonatal_pptx.mjs" }, "dependencies": { "pptxgenjs": "^3.5.0" } }
